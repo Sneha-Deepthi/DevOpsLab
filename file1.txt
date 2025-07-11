@@ -1,2 +1,2 @@
-Welcome Students
+Hello Students
 This is DevOps Lab
