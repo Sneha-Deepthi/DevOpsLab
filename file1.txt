@@ -1,2 +1,2 @@
-Hello Students
+Welcome Freshers
 This is DevOps lab
